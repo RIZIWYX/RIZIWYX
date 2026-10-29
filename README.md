@@ -27,13 +27,13 @@
 <img src="https://skillicons.dev/icons?i=nextjs,react,vite,tailwind,spring,html,css,mysql,postgres,prisma&theme=dark&perline=10" alt="Web"/>
 
 **Outils**<br/><br/>
-<img src="https://skillicons.dev/icons?i=linux,bash,git,github,githubactions,docker,vercel,vscode&theme=dark&perline=8" alt="Outils"/>
+<img src="https://skillicons.dev/icons?i=linux,ubuntu,bash,git,github,githubactions,docker,vercel,vscode&theme=dark&perline=9" alt="Outils"/>
 
 **Data et IA**<br/><br/>
 <img src="assets/data.svg" alt="FastAPI, n8n, Claude Code, GitHub Copilot"/>
 
 **Sécurité et réseau**<br/><br/>
-<img src="assets/secu.svg" alt="Wireshark, Nmap, Ghidra, Cisco Packet Tracer"/>
+<img src="assets/secu.svg" alt="Kali Linux, Wireshark, Nmap, Ghidra, Cisco Packet Tracer"/>
 
 </div>
 
