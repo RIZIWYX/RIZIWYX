@@ -16,8 +16,11 @@
 ## Langages et outils
 
 **Langages** : C, Java, Python, OCaml, PHP, JavaScript, TypeScript, SQL
+
 **Web** : Next.js, React, Node.js, MySQL, PostgreSQL
+
 **Outils** : Git, Linux, Docker, Maven, GitHub Actions
+
 
 ## Contact
 
