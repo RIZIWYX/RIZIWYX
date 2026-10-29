@@ -30,17 +30,10 @@
 <img src="https://skillicons.dev/icons?i=linux,bash,git,github,githubactions,docker,vercel,vscode&theme=dark&perline=8" alt="Outils"/>
 
 **Data et IA**<br/><br/>
-<img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI"/>
-<img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white" alt="n8n"/>
-<img src="https://img.shields.io/badge/Claude%20Code-D97757?style=for-the-badge&logo=claude&logoColor=white" alt="Claude Code"/>
-<img src="https://img.shields.io/badge/GitHub%20Copilot-000000?style=for-the-badge&logo=githubcopilot&logoColor=white" alt="GitHub Copilot"/>
-<img src="https://img.shields.io/badge/Analyse%20de%20code%20par%20LLM-1f9d5c?style=for-the-badge" alt="Analyse de code par LLM"/>
+<img src="assets/data.svg" alt="FastAPI, n8n, Claude Code, GitHub Copilot"/>
 
 **Sécurité et réseau**<br/><br/>
-<img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" alt="Wireshark"/>
-<img src="https://img.shields.io/badge/Nmap-4682B4?style=for-the-badge" alt="Nmap"/>
-<img src="https://img.shields.io/badge/Ghidra-C00000?style=for-the-badge" alt="Ghidra"/>
-<img src="https://img.shields.io/badge/Cisco%20Packet%20Tracer-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" alt="Cisco Packet Tracer"/>
+<img src="assets/secu.svg" alt="Wireshark, Nmap, Ghidra, Cisco Packet Tracer"/>
 
 </div>
 
