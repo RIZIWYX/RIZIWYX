@@ -2,8 +2,6 @@
 
 Étudiant en L3 informatique à l'Université de Rouen Normandie. Je m'intéresse au **développement logiciel**, à la **cybersécurité** et aux **réseaux**.
 
-Je recherche un **stage de L3 à partir d'avril 2027** en cybersécurité, réseau ou développement logiciel.
-
 ## Projets à la une
 
 | Projet | Description | Stack |
