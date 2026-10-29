@@ -9,21 +9,24 @@
 <a href="mailto:graineham@gmail.com"><img src="https://img.shields.io/badge/Email-060f0a?style=for-the-badge&logo=gmail&logoColor=5ee39a" alt="Email"/></a>
 </div>
 <br/>
+
 ## `~/stack`
+
 <div align="center">
-**Langages**<br/><br/>
+  
+**Langages**<br/>
 <img src="https://skillicons.dev/icons?i=c,java,python,ocaml,php,js,ts&theme=dark&perline=7" alt="Langages"/>
 
-**Web et bases de données**<br/><br/>
+**Web et bases de données**<br/>
 <img src="https://skillicons.dev/icons?i=nextjs,react,vite,tailwind,spring,html,css,mysql,postgres,prisma&theme=dark&perline=10" alt="Web"/>
 
-**Outils**<br/><br/>
+**Outils**<br/>
 <img src="https://skillicons.dev/icons?i=linux,ubuntu,bash,git,github,githubactions,docker,vercel,vscode&theme=dark&perline=9" alt="Outils"/>
 
-**Data et IA**<br/><br/>
+**Data et IA**<br/>
 <img src="assets/data.svg" alt="FastAPI, n8n, Claude Code, GitHub Copilot"/>
 
-**Sécurité et réseau**<br/><br/>
+**Sécurité et réseau**<br/>
 <img src="assets/securite.svg" alt="Kali Linux, Wireshark, Nmap, Ghidra, Cisco Packet Tracer"/>
 
 </div>
