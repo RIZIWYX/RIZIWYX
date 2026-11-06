@@ -4,8 +4,8 @@
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2800&pause=900&color=5EE39A&center=true&vCenter=true&width=650&lines=%24+whoami;%C3%89tudiant+en+L3+informatique+%C3%A0+Rouen;Du+transistor+au+site+web;Je+cherche+un+stage+de+L3+%F0%9F%9A%80" alt="Présentation animée"/>
 </a>
 <br/>
-<a href="https://portfolio-rayane-graine.vercel.app"><img src="https://img.shields.io/badge/Portfolio-060f0a?style=for-the-badge&logo=googlechrome&logoColor=5ee39a" alt="Portfolio"/></a>
-<a href="https://linkedin.com/in/rayane-graine"><img src="https://img.shields.io/badge/LinkedIn-060f0a?style=for-the-badge&logo=linkedin&logoColor=5ee39a" alt="LinkedIn"/></a>
+<a href="https://portfolio-rayane-graine.vercel.app"><img src="https://img.shields.io/badge/Portfolio-060f0a?style=for-the-badge&logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI%2BPHBhdGggZmlsbD0iIzVlZTM5YSIgZD0iTTIgNWEyIDIgMCAwIDEgMi0yaDVsMiAyaDlhMiAyIDAgMCAxIDIgMnYxMWEyIDIgMCAwIDEtMiAySDRhMiAyIDAgMCAxLTItMnoiLz48L3N2Zz4%3D" alt="Portfolio"/></a>
+<a href="https://linkedin.com/in/rayane-graine"><img src="https://img.shields.io/badge/LinkedIn-060f0a?style=for-the-badge&logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI%2BPHBhdGggZmlsbD0iIzVlZTM5YSIgZD0iTTIwLjQ1IDIwLjQ1aC0zLjU2di01LjU3YzAtMS4zMy0uMDItMy4wNC0xLjg1LTMuMDQtMS44NSAwLTIuMTQgMS40NS0yLjE0IDIuOTR2NS42N0g5LjM1VjloMy40MXYxLjU2aC4wNWMuNDgtLjkgMS42NC0xLjg1IDMuMzctMS44NSAzLjYgMCA0LjI3IDIuMzcgNC4yNyA1LjQ2djYuMjh6TTUuMzQgNy40M2EyLjA2IDIuMDYgMCAxIDEgMC00LjEzIDIuMDYgMi4wNiAwIDAgMSAwIDQuMTN6TTcuMTIgMjAuNDVIMy41NlY5aDMuNTZ2MTEuNDV6TTIyLjIyIDBIMS43N0MuNzkgMCAwIC43NyAwIDEuNzN2MjAuNTRDMCAyMy4yMy43OSAyNCAxLjc3IDI0aDIwLjQ1Yy45OCAwIDEuNzgtLjc3IDEuNzgtMS43M1YxLjczQzI0IC43NyAyMy4yIDAgMjIuMjIgMHoiLz48L3N2Zz4%3D" alt="LinkedIn"/></a>
 <a href="mailto:graineham@gmail.com"><img src="https://img.shields.io/badge/Email-060f0a?style=for-the-badge&logo=gmail&logoColor=5ee39a" alt="Email"/></a>
 </div>
 <br/>
